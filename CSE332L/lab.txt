@@ -1,0 +1,3 @@
+2 bit op
+3 bit rs
+3 bit rd
